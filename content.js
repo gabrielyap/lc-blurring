@@ -11,7 +11,7 @@ const blurUserCode = () => {
       top: 8.5rem;
       right: 0;
       width: 50%;
-      height: 60%;
+      height: 75%;
       background-color: rgba(0, 0, 0, 0.99);
       z-index: 9999;
       pointer-events: none;
